@@ -47,21 +47,40 @@ I am a passionate **Information Technology graduate (2024)** with a strong found
 
 ---
 
-# 💼 Experience
+# 💼 Work Experience
 
 ## 🚀 Full Stack Developer Intern — Twenty4 Jewellery Pvt. Ltd.
 
-Worked on responsive UI development, reusable components, and frontend feature implementation.
+<img src="https://img.shields.io/badge/Internship-2025-2d2a68?style=flat-square"/>
+<img src="https://img.shields.io/badge/On--site-Coimbatore-2d2a68?style=flat-square"/>
 
-**Tech:** React.js • Next.js • Node.js • JavaScript • Docker • Primsa • MongoDB
+Worked on responsive UI development, reusable components, full-stack feature implementation, API integration, and deployment workflows.
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 
 ## 🌍 Front-End Developer Intern — Knowillence Pvt. Ltd.
 
-Built responsive layouts, landing pages, and reusable UI sections.
+<img src="https://img.shields.io/badge/Internship-2024-2d2a68?style=flat-square"/>
+<img src="https://img.shields.io/badge/On--site-Coimbatore-2d2a68?style=flat-square"/>
 
-**Tech:** HTML • CSS • Responsive Design • React.js
+Built responsive layouts, landing pages, reusable UI sections, and improved cross-device compatibility.
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
 
 ---
 
