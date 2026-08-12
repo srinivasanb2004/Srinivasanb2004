@@ -1,30 +1,27 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Srinivasanb2004/banner/main/banner.png" width="100%" alt="Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=2200&pause=900&color=FF5CA8&center=true&vCenter=true&width=900&lines=✨+SRINIVASAN+B+✨;🚀+FULL+STACK+DEVELOPER+🚀;⚡+REACT+•+NEXT.JS+•+NODE.JS+⚡;🌌+BUILDING+MODERN+WEB+APPLICATIONS+🌌" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=2500&pause=800&color=FF5CA8&center=true&vCenter=true&width=700&lines=✨+SRINIVASAN+B+✨;🚀+FULL+STACK+DEVELOPER+🚀;⚡+REACT+•+NEXT.JS+•+NODE.JS+⚡" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Srinivasanb2004/banner/main/banner.png" width="100%" alt="Tech Banner" />
 </p>
 
-<h3 align="center">
-  Full Stack Developer | React • Next.js • TypeScript • Node.js
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF5CA8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+real-world+web+applications;Learning+AI-powered+products" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Srinivasanb2004&label=Profile%20Views&color=ff5ca8&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Srinivasanb2004?style=for-the-badge&color=06b6d4&labelColor=0b1020" />
+  <img src="https://img.shields.io/github/stars/Srinivasanb2004?style=for-the-badge&color=7c3aed&labelColor=0b1020" />
 </p>
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-I am a passionate **Information Technology graduate (2024)** with a strong foundation in **Full Stack Development**, dedicated to building scalable, interactive, and user-focused web applications.
+I am a passionate **Information Technology graduate (2024)** with a strong foundation in **Full Stack Development**, dedicated to creating scalable, interactive, and user-focused web applications.
 
-- 🎓 B.Sc. Information Technology (2024)
-- 📍 Singapore / Coimbatore
-- 🌱 Currently learning **Next.js, Prisma, PostgreSQL, and AI integrations**
-- 💡 Interested in **Full Stack Development, UI/UX, and AI-powered applications**
+* 🎓 **B.Sc. Information Technology (2024)**
+* 📍 **Singapore / Coimbatore**
+* 🌱 Currently learning **Next.js, Prisma, PostgreSQL, and AI integrations**
+* 💡 Interested in **Full Stack Development, UI/UX, and AI-powered applications**
 
 ---
 
@@ -39,7 +36,7 @@ I am a passionate **Information Technology graduate (2024)** with a strong found
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
@@ -55,21 +52,21 @@ I am a passionate **Information Technology graduate (2024)** with a strong found
 
 ---
 
-# 💼 Work Experience
+# 💼 Experience
 
 ## 🚀 Frontend Developer Intern — HRH Next Pvt. Ltd.
 
-Worked on frontend development tasks, responsive UI implementation, component-based architecture, and web application support.
+Worked on responsive UI development, reusable components, and frontend feature implementation.
 
-**Technologies:** React.js, JavaScript, HTML, CSS, Bootstrap
+**Tech:** React.js • JavaScript • HTML • CSS • Bootstrap
 
 ---
 
 ## 🌍 HTML & CSS Developer Intern — Knowillence Pvt. Ltd.
 
-Built responsive layouts, landing pages, reusable UI sections, and improved cross-device compatibility.
+Built responsive layouts, landing pages, and reusable UI sections.
 
-**Technologies:** HTML, CSS, Responsive Design
+**Tech:** HTML • CSS • Responsive Design
 
 ---
 
@@ -77,42 +74,58 @@ Built responsive layouts, landing pages, reusable UI sections, and improved cros
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
-### 📘 Smart Teacher Register
+### 🌤 Weather App
 
-Digital teacher register for attendance, marks, fees, and reports.
+Real-time weather forecasting application with clean UI and API integration.
 
-**Stack:** Next.js • Prisma • PostgreSQL
+**Tech:** HTML • CSS • JavaScript • Weather API
 
-<a href="https://github.com/Srinivasanb2004/smart-teacher-register">
+<a href="https://github.com/srinivasanb2004/Weather-App">
   <img src="https://img.shields.io/badge/View_Repo-1f1f5c?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
-### 💸 AI Expense Tracker
+### 🧭 TripAdvisor Clone
 
-OCR-based expense tracker with AI insights.
+Travel and destination browsing website inspired by TripAdvisor.
 
-**Stack:** React • Node.js • OCR
+**Tech:** HTML • CSS • JavaScript
 
-<a href="https://github.com/Srinivasanb2004">
+<a href="https://github.com/srinivasanb2004/TRIPADVISOR-CLONE">
   <img src="https://img.shields.io/badge/View_Repo-1f1f5c?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
-<td width="33%" align="center">
+</tr>
 
-### 📧 Bulk Mail App
+<tr>
+<td width="50%" align="center">
 
-Personalized bulk email sending application.
+### 🛒 Nostra E-Commerce
 
-**Stack:** Express • MongoDB • Nodemailer
+Modern e-commerce storefront with product browsing and responsive design.
 
-<a href="https://github.com/Srinivasanb2004">
+**Tech:** HTML • CSS • JavaScript
+
+<a href="https://github.com/srinivasanb2004/NOSTRA-E-COMMERCE">
   <img src="https://img.shields.io/badge/View_Repo-1f1f5c?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### 🌌 My Portfolio (Latest)
+
+Personal portfolio showcasing projects, skills, and modern UI/UX.
+
+**Tech:** Next.js • Tailwind CSS • Framer Motion
+
+<a href="https://portfolio-latest-cfeu.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-ff5ca8?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </td>
@@ -133,19 +146,19 @@ Personalized bulk email sending application.
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinivasanb2004&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivasanb2004&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Srinivasanb2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=FF5CA8&icon_color=06B6D4&text_color=E5E7EB" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivasanb2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=FF5CA8&text_color=E5E7EB" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Srinivasanb2004&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Srinivasanb2004&theme=tokyonight&hide_border=true&background=0B1020&ring=FF5CA8&fire=FF5CA8&currStreakLabel=06B6D4" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srinivasanb2004&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srinivasanb2004&theme=tokyo-night&hide_border=true&bg_color=0B1020&color=06B6D4&line=FF5CA8&point=FFFFFF" />
 </p>
 
 ---
@@ -153,11 +166,14 @@ Personalized bulk email sending application.
 # 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:bsrinivasan2004@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/srinivasan2004/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-latest-cfeu.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-ff5ca8?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/Srinivasanb2004">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -167,7 +183,7 @@ Personalized bulk email sending application.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b247a,100:1bcedf&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=120&section=footer"/>
 </p>
 
 <p align="center">
