@@ -47,6 +47,24 @@ I am a passionate **Information Technology graduate (2024)** with a strong found
 
 ---
 
+# 💼 Experience
+
+## 🚀 Frontend Developer Intern — HRH Next Pvt. Ltd.
+
+Worked on responsive UI development, reusable components, and frontend feature implementation.
+
+**Tech:** React.js • JavaScript • HTML • CSS • Bootstrap
+
+---
+
+## 🌍 HTML & CSS Developer Intern — Knowillence Pvt. Ltd.
+
+Built responsive layouts, landing pages, and reusable UI sections.
+
+**Tech:** HTML • CSS • Responsive Design
+
+---
+
 # 🛠 Tech Stack
 
 <div align="center">
@@ -71,24 +89,6 @@ I am a passionate **Information Technology graduate (2024)** with a strong found
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
 
 </div>
-
----
-
-# 💼 Experience
-
-## 🚀 Frontend Developer Intern — HRH Next Pvt. Ltd.
-
-Worked on responsive UI development, reusable components, and frontend feature implementation.
-
-**Tech:** React.js • JavaScript • HTML • CSS • Bootstrap
-
----
-
-## 🌍 HTML & CSS Developer Intern — Knowillence Pvt. Ltd.
-
-Built responsive layouts, landing pages, and reusable UI sections.
-
-**Tech:** HTML • CSS • Responsive Design
 
 ---
 
