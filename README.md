@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Srinivasanb2004/banner/main/banner.png" width="100%" alt="Banner" />
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Srinivasanb2004/banner/main/banner.png" width="100%" alt="Banner" />
 </p>
