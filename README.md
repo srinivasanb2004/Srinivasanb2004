@@ -51,8 +51,7 @@ I am a passionate **Information Technology graduate (2024)** with a strong found
 
 ## 🚀 Full Stack Developer Intern — Twenty4 Jewellery Pvt. Ltd.
 
-<img src="https://img.shields.io/badge/Internship-2025-2d2a68?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/Internship-2025-2d2a68?style=flat-square"/>&nbsp;
 <img src="https://img.shields.io/badge/On--site-Coimbatore-2d2a68?style=flat-square"/>
 
 Worked on responsive UI development, reusable components, full-stack feature implementation, API integration, and deployment workflows.
@@ -71,8 +70,7 @@ Worked on responsive UI development, reusable components, full-stack feature imp
 
 ## 🌍 Front-End Developer Intern — Knowillence Pvt. Ltd.
 
-<img src="https://img.shields.io/badge/Internship-2024-2d2a68?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/Internship-2024-2d2a68?style=flat-square"/>&nbsp;
 <img src="https://img.shields.io/badge/On--site-Coimbatore-2d2a68?style=flat-square"/>
 
 Built responsive layouts, landing pages, reusable UI sections, and improved cross-device compatibility.
