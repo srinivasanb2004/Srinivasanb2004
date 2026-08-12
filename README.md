@@ -204,6 +204,16 @@ Personal portfolio showcasing projects, skills, and modern UI/UX.
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Srinivasanb2004/Srinivasanb2004/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=120&section=footer"/>
 </p>
