@@ -1,89 +1,118 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2500&pause=800&color=A855F7&center=false&vCenter=true&width=700&lines=SRINIVASAN+B+%2F%2F;FULL-STACK+DEVELOPER+%26+ENGINEER;NEXT.JS+%E2%80%A2+REACT+%E2%80%A2+NODE.JS;BUILDING+REAL-WORLD+WEB+APPS" alt="Typing SVG" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Srinivasanb2004&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Srinivasanb2004?style=for-the-badge&color=06b6d4&labelColor=0b1020" alt="followers" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Srinivasanb2004/banner/main/banner.png" width="100%" alt="Banner" />
 </p>
 
-> ### *Crafting innovative digital solutions with code, design, and practical problem solving.*
+<h1 align="center">
+  Hi 👋 I'm <span style="color:#ff5ca8;">SRINIVASAN</span>
+</h1>
 
----
+<h3 align="center">
+  Full Stack Developer | React • Next.js • TypeScript • Node.js
+</h3>
 
-## 🌌 Dev Profile
-
-```bash
-$ whoami
-> Srinivasan B
-
-$ role
-> Full-Stack Developer & Engineer
-
-$ current_focus
-> Smart Teacher Register (Next.js + Prisma + PostgreSQL)
-
-$ location
-> Singapore / Coimbatore
-
-$ status
-> Learning in public and building production-style projects
-```
-
----
-
-## ⚡ Tech Arsenal
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-0B1020?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Node.js-0B1020?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express-0B1020?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/MongoDB-0B1020?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-  <img src="https://img.shields.io/badge/Prisma-0B1020?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0B1020?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"/>
-  <img src="https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/Vercel-0B1020?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF5CA8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+real-world+web+applications;Learning+AI-powered+products" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About
+
+I am a passionate **Information Technology graduate (2024)** with a strong foundation in **Full Stack Development**, dedicated to building scalable, interactive, and user-focused web applications.
+
+- 🎓 B.Sc. Information Technology (2024)
+- 📍 Singapore / Coimbatore
+- 🌱 Currently learning **Next.js, Prisma, PostgreSQL, and AI integrations**
+- 💡 Interested in **Full Stack Development, UI/UX, and AI-powered applications**
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,js,ts" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<br/>
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
+
+</div>
+
+---
+
+# 💼 Work Experience
+
+## 🚀 Frontend Developer Intern — HRH Next Pvt. Ltd.
+
+Worked on frontend development tasks, responsive UI implementation, component-based architecture, and web application support.
+
+**Technologies:** React.js, JavaScript, HTML, CSS, Bootstrap
+
+---
+
+## 🌍 HTML & CSS Developer Intern — Knowillence Pvt. Ltd.
+
+Built responsive layouts, landing pages, reusable UI sections, and improved cross-device compatibility.
+
+**Technologies:** HTML, CSS, Responsive Design
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 
-### 🧠 Smart Teacher Register
+### 📘 Smart Teacher Register
 
-Digital teacher register with attendance, marks, fees, and reports.
+Digital teacher register for attendance, marks, fees, and reports.
 
-**Stack:** Next.js • Prisma • PostgreSQL • Tailwind
+**Stack:** Next.js • Prisma • PostgreSQL
 
-🔗 **Repo:** https://github.com/Srinivasanb2004/smart-teacher-register
+<a href="https://github.com/Srinivasanb2004/smart-teacher-register">
+  <img src="https://img.shields.io/badge/View_Repo-1f1f5c?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
 ### 💸 AI Expense Tracker
 
-Track expenses with OCR receipt scanning and AI insights.
+OCR-based expense tracker with AI insights.
 
-**Stack:** React • Node.js • OCR • MongoDB
+**Stack:** React • Node.js • OCR
 
-🔗 **Repo:** Add your repository link
+<a href="https://github.com/Srinivasanb2004">
+  <img src="https://img.shields.io/badge/View_Repo-1f1f5c?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
-<td width="33%">
+<td width="33%" align="center">
 
-### 📧 Bulk Mail Application
+### 📧 Bulk Mail App
 
-Send personalized emails with templates and tracking.
+Personalized bulk email sending application.
 
 **Stack:** Express • MongoDB • Nodemailer
 
-🔗 **Repo:** Add your repository link
+<a href="https://github.com/Srinivasanb2004">
+  <img src="https://img.shields.io/badge/View_Repo-1f1f5c?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -91,66 +120,55 @@ Send personalized emails with templates and tracking.
 
 ---
 
-## 📊 GitHub Analytics
+# 🌟 Interests
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Srinivasanb2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=A855F7&icon_color=06B6D4&text_color=E5E7EB"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivasanb2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=A855F7&text_color=E5E7EB"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Srinivasanb2004&theme=tokyonight&hide_border=true&background=0B1020&ring=A855F7&fire=A855F7&currStreakLabel=06B6D4"/>
-</p>
-
----
-
-## 🛰️ Contribution Network
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srinivasanb2004&theme=tokyo-night&hide_border=true&bg_color=0B1020&color=06B6D4&line=A855F7&point=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Open_Source-1f1f5c?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Accessibility-1f1f5c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX_Design-1f1f5c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Integration-1f1f5c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Developer_Experience-1f1f5c?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧪 Current Experiments
+# 📊 GitHub Activity
 
-* 🔭 Building a production-style **school management platform**
-* 🤖 Exploring **AI + Full Stack applications**
-* 📱 Improving **responsive dashboard UI/UX**
-* ⚙️ Learning **Prisma optimization and PostgreSQL design**
-* 🚀 Deploying apps on **Vercel**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srinivasanb2004&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivasanb2004&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Srinivasanb2004&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🏆 Developer Snapshot
-
-* 🎓 **B.Sc. Information Technology (2024)**
-* 🥇 **Best Outgoing Student**
-* 💼 Experience in **Frontend Development** and **Customer Support Operations**
-* 🌱 Passionate about **web apps that solve real problems**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srinivasanb2004&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Connect
+# 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/Srinivasanb2004">
-    <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/srinivasan2004/">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <a href="https://github.com/Srinivasanb2004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:06b6d4&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b247a,100:1bcedf&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  <b>⚡ “Code is my medium; useful products are my goal.” ⚡</b>
+  <b>✨ Let's build something amazing together! ✨</b>
 </p>
