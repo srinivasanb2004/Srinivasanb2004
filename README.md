@@ -3,9 +3,9 @@
   <img src="https://raw.githubusercontent.com/Srinivasanb2004/banner/main/banner.png" width="100%" alt="Banner" />
 </p>
 
-<h1 align="center">
-  Hi 👋 I'm <span style="color:#ff5ca8;">SRINIVASAN</span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=2500&pause=800&color=FF5CA8&center=true&vCenter=true&width=700&lines=✨+SRINIVASAN+B+✨;🚀+FULL+STACK+DEVELOPER+🚀;⚡+REACT+•+NEXT.JS+•+NODE.JS+⚡" alt="Typing SVG" />
+</p>
 
 <h3 align="center">
   Full Stack Developer | React • Next.js • TypeScript • Node.js
