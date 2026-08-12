@@ -28,6 +28,25 @@ I am a passionate **Information Technology graduate (2024)** with a strong found
 
 ---
 
+# 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/srinivasan2004/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-latest-cfeu.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-ff5ca8?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Srinivasanb2004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 # 🛠 Tech Stack
 
 <div align="center">
@@ -162,25 +181,6 @@ Personal portfolio showcasing projects, skills, and modern UI/UX.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srinivasanb2004&theme=tokyo-night&hide_border=true&bg_color=0B1020&color=06B6D4&line=FF5CA8&point=FFFFFF" />
-</p>
-
----
-
-# 🔗 Connect With Me
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/srinivasan2004/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-latest-cfeu.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-ff5ca8?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Srinivasanb2004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
