@@ -22,8 +22,8 @@
 I am a passionate **Information Technology graduate (2024)** with a strong foundation in **Full Stack Development**, dedicated to creating scalable, interactive, and user-focused web applications.
 
 * 🎓 **B.Sc. Information Technology (2024)**
-* 📍 **Singapore / Coimbatore**
-* 🌱 Currently learning **Next.js, Prisma, PostgreSQL, and AI integrations**
+* 📍 **Tamilnadu / Coimbatore**
+* 🌱 Skills **Next.js, Prisma, PostgreSQL, and AI integrations**
 * 💡 Interested in **Full Stack Development, UI/UX, and AI-powered applications**
 
 ---
@@ -49,19 +49,19 @@ I am a passionate **Information Technology graduate (2024)** with a strong found
 
 # 💼 Experience
 
-## 🚀 Frontend Developer Intern — HRH Next Pvt. Ltd.
+## 🚀 Full Stack Developer Intern — Twenty4 Jewellery Pvt. Ltd.
 
 Worked on responsive UI development, reusable components, and frontend feature implementation.
 
-**Tech:** React.js • JavaScript • HTML • CSS • Bootstrap
+**Tech:** React.js • Next.js • Node.js • JavaScript • Docker • Primsa • MongoDB
 
 ---
 
-## 🌍 HTML & CSS Developer Intern — Knowillence Pvt. Ltd.
+## 🌍 Front-End Developer Intern — Knowillence Pvt. Ltd.
 
 Built responsive layouts, landing pages, and reusable UI sections.
 
-**Tech:** HTML • CSS • Responsive Design
+**Tech:** HTML • CSS • Responsive Design • React.js
 
 ---
 
