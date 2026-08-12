@@ -1,12 +1,12 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Srinivasanb2004/banner/main/banner.png" width="100%" alt="Tech Banner" />
+</p>
+
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=2200&pause=900&color=FF5CA8&center=true&vCenter=true&width=900&lines=%E2%9C%A8+SRINIVASAN+B+%E2%9C%A8;%F0%9F%9A%80+FULL+STACK+DEVELOPER+%F0%9F%9A%80;%E2%9A%A1+REACT+%E2%80%A2+NEXT.JS+%E2%80%A2+NODE.JS+%E2%9A%A1;%F0%9F%8C%8C+BUILDING+MODERN+WEB+APPLICATIONS+%F0%9F%8C%8C"
     alt="Typing SVG"
   />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Srinivasanb2004/banner/main/banner.png" width="100%" alt="Tech Banner" />
 </p>
 
 <p align="center">
